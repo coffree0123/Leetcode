@@ -4,7 +4,7 @@ def generate_readme():
     # Filename format:[number]_[difficulty]_[problem_filename]
     path = './solutions/'
     file_list = os.listdir(path)
-    print(file_list)
+    language_dict = {'java':'Java', 'py':'Python', 'cpp':'C++'}
 
     f = open("README.md", "w")
     f.write("LeetCode\n")
@@ -19,7 +19,7 @@ def generate_readme():
         title = file.split('_')[2].split('.')[0]
         title_link = "https://leetcode.com/problems/" + title.replace(" ", "-").lower()
         code_link = "https://github.com/coffree0123/Leetcode/blob/master/solutions/" + file.replace(" ", "%20")
-        language = file.split('.')[1]
+        language = language_dict.get(file.split('.')[1], 'None')
 
         cur_line = "|{}|[{}]({})|[code]({})|{}|{}|\n".format(number, title, title_link, code_link, language, difficulty)
         f.write(cur_line)
