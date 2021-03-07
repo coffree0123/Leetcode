@@ -1,7 +1,7 @@
 import os
 
 def generate_readme():
-
+    # Filename format:[number]_[difficulty]_[problem_filename]
     path = './solutions/'
     file_list = os.listdir(path)
     print(file_list)
