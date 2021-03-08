@@ -4,7 +4,7 @@ import os
 def generate_readme():
     # Filename format:[number]_[difficulty]_[problem_filename]
     path = './solutions/'
-    file_list = os.listdir(path)
+    file_list = sorted(os.listdir(path))
     language_dict = {'java': 'Java', 'py': 'Python', 'cpp': 'C++'}
 
     f = open("README.md", "w")
