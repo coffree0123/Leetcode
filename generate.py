@@ -12,6 +12,11 @@ def generate_readme():
     f.write("LeetCode\n")
     f.write("========\n\n")
     f.write("### LeetCode Algorithm\n\n")
+    f.write("Record some important leetcode questions by script with command-line interface\n\n")
+    f.write("Usage:\n")
+    f.write("```\n")
+    f.write("python generate.py\n")
+    f.write("```\n\n")
     f.write("| # | Title | My solution | Language | Difficulty |\n")
     f.write("|---| ----- | -------- | ---------- | ---------- |\n")
 

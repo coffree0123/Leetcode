@@ -3,6 +3,13 @@ LeetCode
 
 ### LeetCode Algorithm
 
+Record some important leetcode questions by script with command-line interface
+
+Usage:
+```
+python generate.py
+```
+
 | # | Title | My solution | Language | Difficulty |
 |---| ----- | -------- | ---------- | ---------- |
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/74_Medium_Search%20a%202D%20Matrix.cpp)|C++|Medium|
