@@ -17,6 +17,7 @@ def generate_readme():
     f.write("```\n")
     f.write("python generate.py\n")
     f.write("```\n\n")
+    f.write("![image](https://github.com/coffree0123/Leetcode/blob/master/imgs/interface.png?raw=true)\n\n")
     f.write("| # | Title | My solution | Language | Difficulty |\n")
     f.write("|---| ----- | -------- | ---------- | ---------- |\n")
 
