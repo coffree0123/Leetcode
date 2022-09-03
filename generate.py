@@ -93,6 +93,9 @@ if __name__ == '__main__':
                 save_github()
             else:
                 print("[ValueError] No such argument:{}\n".format(arg))
+                continue
+
+            input("Type any key to continue...")
 
         except ValueError:
             print("Oops!  That was no valid number.  Try again...\n")
