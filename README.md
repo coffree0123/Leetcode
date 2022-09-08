@@ -21,6 +21,7 @@ python generate.py
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/128_Medium_Longest%20Consecutive%20Sequence.cpp)|C++|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/153_Medium_Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)|C++|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/155_Medium_Min%20Stack.cpp)|C++|Medium|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/206_Easy_Reverse%20Linked%20List.cpp)|C++|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/231_Easy_Power%20of%20Two.cpp)|C++|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/264_Medium_Ugly%20Number%20II.cpp)|C++|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/268_Easy_Missing%20Number.cpp)|C++|Easy|
