@@ -32,6 +32,7 @@ python generate.py
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/853_Medium_Car%20Fleet.cpp)|C++|Medium|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/875_Medium_Koko%20Eating%20Bananas.cpp)|C++|Medium|
 |907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/907_Medium_Sum%20of%20Subarray%20Minimums.cpp)|C++|Medium|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/973_Medium_K%20Closest%20Points%20to%20Origin.cpp)|C++|Medium|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/981_Medium_Time%20Based%20Key-Value%20Store.cpp)|C++|Medium|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/1046_Easy_Last%20Stone%20Weight.cpp)|C++|Easy|
 |2096|[Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/2096_Medium_Step-By-Step%20Directions%20From%20a%20Binary%20Tree%20Node%20to%20Another.cpp)|C++|Medium|
