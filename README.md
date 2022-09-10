@@ -27,6 +27,7 @@ python generate.py
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/264_Medium_Ugly%20Number%20II.cpp)|C++|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/268_Easy_Missing%20Number.cpp)|C++|Easy|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/313_Medium_Super%20Ugly%20Number.cpp)|C++|Medium|
+|621|[Task Scheduler](https://leetcode.com/problems/task-scheduler)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/621_Medium_Task%20Scheduler.cpp)|C++|Medium|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv---input-is-a-bst)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/653_Easy_Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|C++|Easy|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/703_Easy_Kth%20Largest%20Element%20in%20a%20Stream.cpp)|C++|Easy|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/735_Medium_Asteroid%20Collision.cpp)|C++|Medium|
