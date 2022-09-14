@@ -17,6 +17,7 @@ python generate.py
 | # | Title | My solution | Language | Difficulty |
 |---| ----- | -------- | ---------- | ---------- |
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/74_Medium_Search%20a%202D%20Matrix.cpp)|C++|Medium|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/104_Easy_Maximum%20Depth%20of%20Binary%20Tree.cpp)|C++|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/125_Easy_Valid%20Palindrome.cpp)|C++|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/128_Medium_Longest%20Consecutive%20Sequence.cpp)|C++|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/153_Medium_Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)|C++|Medium|
