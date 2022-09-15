@@ -17,7 +17,9 @@ python generate.py
 | # | Title | My solution | Language | Difficulty |
 |---| ----- | -------- | ---------- | ---------- |
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/74_Medium_Search%20a%202D%20Matrix.cpp)|C++|Medium|
+|100|[Same Tree](https://leetcode.com/problems/same-tree)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/100_Easy_Same%20Tree.cpp)|C++|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/104_Easy_Maximum%20Depth%20of%20Binary%20Tree.cpp)|C++|Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/110_Easy_Balanced%20Binary%20Tree.cpp)|C++|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/125_Easy_Valid%20Palindrome.cpp)|C++|Easy|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/128_Medium_Longest%20Consecutive%20Sequence.cpp)|C++|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/153_Medium_Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)|C++|Medium|
@@ -29,6 +31,7 @@ python generate.py
 |268|[Missing Number](https://leetcode.com/problems/missing-number)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/268_Easy_Missing%20Number.cpp)|C++|Easy|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/313_Medium_Super%20Ugly%20Number.cpp)|C++|Medium|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/543_Easy_Diameter%20of%20Binary%20Tree.cpp)|C++|Easy|
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/572_Easy_Subtree%20of%20Another%20Tree.cpp)|C++|Easy|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/621_Medium_Task%20Scheduler.cpp)|C++|Medium|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv---input-is-a-bst)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/653_Easy_Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|C++|Easy|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/703_Easy_Kth%20Largest%20Element%20in%20a%20Stream.cpp)|C++|Easy|
