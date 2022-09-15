@@ -27,6 +27,7 @@ python generate.py
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/206_Easy_Reverse%20Linked%20List.cpp)|C++|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/215_Medium_Kth%20Largest%20Element%20in%20an%20Array.cpp)|C++|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/231_Easy_Power%20of%20Two.cpp)|C++|Easy|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/235_Medium_Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp)|C++|Medium|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/264_Medium_Ugly%20Number%20II.cpp)|C++|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/268_Easy_Missing%20Number.cpp)|C++|Easy|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/313_Medium_Super%20Ugly%20Number.cpp)|C++|Medium|
