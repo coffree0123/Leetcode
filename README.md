@@ -16,6 +16,7 @@ python generate.py
 
 | # | Title | My solution | Language | Difficulty |
 |---| ----- | -------- | ---------- | ---------- |
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/53_Medium_Maximum%20Subarray.cpp)|C++|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/74_Medium_Search%20a%202D%20Matrix.cpp)|C++|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/100_Easy_Same%20Tree.cpp)|C++|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/102_Medium_Binary%20Tree%20Level%20Order%20Traversal.cpp)|C++|Medium|
