@@ -48,6 +48,7 @@ python generate.py
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/703_Easy_Kth%20Largest%20Element%20in%20a%20Stream.cpp)|C++|Easy|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/735_Medium_Asteroid%20Collision.cpp)|C++|Medium|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/743_Medium_Network%20Delay%20Time.cpp)|C++|Medium|
+|763|[Partition Labels](https://leetcode.com/problems/partition-labels)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/763_Medium_Partition%20Labels.cpp)|C++|Medium|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/853_Medium_Car%20Fleet.cpp)|C++|Medium|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/875_Medium_Koko%20Eating%20Bananas.cpp)|C++|Medium|
 |907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/907_Medium_Sum%20of%20Subarray%20Minimums.cpp)|C++|Medium|
