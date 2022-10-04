@@ -32,6 +32,7 @@ python generate.py
 |134|[Gas Station](https://leetcode.com/problems/gas-station)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/134_Medium_Gas%20Station.cpp)|C++|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/153_Medium_Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)|C++|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/155_Medium_Min%20Stack.cpp)|C++|Medium|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/187_Medium_Repeated%20DNA%20Sequences.cpp)|C++|Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/199_Medium_Binary%20Tree%20Right%20Side%20View.cpp)|C++|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/206_Easy_Reverse%20Linked%20List.cpp)|C++|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/215_Medium_Kth%20Largest%20Element%20in%20an%20Array.cpp)|C++|Medium|
