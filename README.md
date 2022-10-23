@@ -50,6 +50,7 @@ python generate.py
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/572_Easy_Subtree%20of%20Another%20Tree.cpp)|C++|Easy|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/621_Medium_Task%20Scheduler.cpp)|C++|Medium|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv---input-is-a-bst)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/653_Easy_Two%20Sum%20IV%20-%20Input%20is%20a%20BST.cpp)|C++|Easy|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/665_Medium_Non-decreasing%20Array.cpp)|C++|Medium|
 |678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/678_Medium_Valid%20Parenthesis%20String.cpp)|C++|Medium|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/703_Easy_Kth%20Largest%20Element%20in%20a%20Stream.cpp)|C++|Easy|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision)|[code](https://github.com/coffree0123/Leetcode/blob/master/solutions/735_Medium_Asteroid%20Collision.cpp)|C++|Medium|
